@@ -199,14 +199,13 @@ nav.opaque .navbar-inner .container {
 
 .feature-pop {
     -webkit-border-radius:15px;
-    font-size:16px;
-    border-radius:15px;
+    font-size: 20px;
+    border-radius:10px;
     background:#fff;
     box-shadow:rgba(0,0,0,0.25) 0 1px 4px;
     position:relative;
     top:-50px;
     padding:20px;
-    
 }
 
 .feature-pop .span4.signup-span {
@@ -322,7 +321,7 @@ nav.opaque .navbar-inner .container {
     font-family:'Open Sans', sans-serif;
     font-size:22px;
     line-height:26px;
-    font-weight:600;
+    font-weight:600; 
     padding:14px 30px 16px;
     -webkit-border-radius:6px;
     border-radius:6px;
